@@ -1,5 +1,3 @@
->img
-https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg
 ```
 ## `For Termux/Ssh/Ubuntu`
 ```bash
