@@ -11,32 +11,32 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916378704507"
-global.ownername = "AASHISH"
+global.ownernomer = "2347038494997"
+global.ownername = "no-name tech"
 global.ytname = "YT: SHADOW STARCORE"
 global.socialm = "GitHub: dark-tech-zone"
 global.location = "India, Delhi, city"
 
-global.ownernumber = '916378704507'  //creator number
-global.ownername = 'AASHISH' //owner name
-global.botname = 'AASHISH ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '2347038494997'  //creator number
+global.ownername = 'no-name tech' //owner name
+global.botname = 'no-name tech ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'AASHISH\n\nContact: +919310763037'
+global.author = 'no-name tech\n\nContact: +919310763037'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Tech God Bot Inc."
+global.wm = "no-name bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029Vae26R7EFeXfbF5Rd72B'
 
 //custom prefix
 global.prefa = ['.']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
@@ -63,7 +63,7 @@ global.mess = {
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'This feature can be used by owner no-name tech only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
